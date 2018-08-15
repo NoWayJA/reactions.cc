@@ -1,4 +1,3 @@
-swift
+Reactions Command and Control Server and Client
 =====
-
-swift starter app for IOS
+HTTP2 transport based node / electron command and control
